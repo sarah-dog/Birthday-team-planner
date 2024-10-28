@@ -44,23 +44,10 @@ Getting Started
 
 Clone this repository:
 
-git clone https://github.com/yourusername/birthday-organizer.git
+git clone https://github.com/sarah-dog/birthday-organizer.git
 
-Install the dependencies:
+https://claude.site/artifacts/2182c971-500a-49b5-be92-53241c4215b4
 
-npm install
-
-Run the app:
-
-npm start
-
-Contributing
-
-Feel free to fork this project and submit pull requests! Any contributions that help make birthday organizing easier and more fun are always welcome.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 
